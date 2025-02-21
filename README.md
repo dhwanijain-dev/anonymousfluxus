@@ -24,7 +24,7 @@ Welcome to the **Healthcare Management System** - an ongoing project developed f
 - **More Features Based on Feedback** 💡
 
 ## 📷 Preview
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/PLlCAnfyhHI/0.jpg)](https://www.youtube.com/watch?v=PLlCAnfyhHI)
 ![](https://github.com/dhwanijain-dev/anonymousfluxus/blob/main/frontend/public/readmePhotos/Screenshot%20(12).png?raw=true)
 ![](https://github.com/dhwanijain-dev/anonymousfluxus/blob/main/frontend/public/readmePhotos/Screenshot%20(13).png?raw=true)
 ![](https://github.com/dhwanijain-dev/anonymousfluxus/blob/main/frontend/public/readmePhotos/Screenshot%20(14).png?raw=true)
