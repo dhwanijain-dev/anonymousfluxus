@@ -1,6 +1,6 @@
 # 🚀 Hackathon Project - Healthcare Dashboard
 
-Welcome to the **Healthcare Management System** - an ongoing project developed for a hackathon! This repository showcases the progress and features implemented so far, with continuous improvements in the pipeline. 💡
+Welcome to the **Healthcare Management System** - an ongoing project developed for a hackathon! This repository showcases the progress and features implemented so far, with continuous improvements. 💡
 
 ## 📌 Features Implemented
 
@@ -22,6 +22,8 @@ Welcome to the **Healthcare Management System** - an ongoing project developed f
 - **Backend Integration** 🔗
 - **Enhanced Animations & Performance Optimizations** 🚀
 - **More Features Based on Feedback** 💡
+- **Keycloak for Secure User Authentication**
+- **CSRF Protection for Secure form submission**
 
 ## 📷 Preview
 
@@ -67,10 +69,5 @@ _A quick look at the dashboard with charts and reports._
    ```sh
    npm run dev
    ```
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to **fork** the repo and submit a **pull request** with your improvements.
-
-
 
 ---
